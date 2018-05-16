@@ -1,0 +1,6 @@
+framework module wgPersonInfoCatogeryKit {
+  umbrella header "wgPersonInfoCatogeryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

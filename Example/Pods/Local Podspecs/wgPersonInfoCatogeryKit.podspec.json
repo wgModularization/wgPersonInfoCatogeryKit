@@ -1,0 +1,27 @@
+{
+  "name": "wgPersonInfoCatogeryKit",
+  "version": "1",
+  "summary": "A short description of wgPersonInfoCatogeryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wanggang1128/wgPersonInfoCatogeryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanggang1128": "978159546@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wanggang1128/wgPersonInfoCatogeryKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "wgPersonInfoCatogeryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
